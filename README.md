@@ -1,6 +1,6 @@
 # **Tailwind CSS + React Boilerplate**
 
-This boilerplate provides a foundational setup for developing React applications with Tailwind CSS for styling. It includes a comparison with Material-UI (MUI) to help decide which approach is better suited for specific project requirements.
+This boilerplate provides a foundational setup for developing React application (Vite) with Tailwind CSS for styling. It includes a comparison with Material-UI (MUI) to help decide which approach is better suited for specific project requirements.
 
 ---
 
